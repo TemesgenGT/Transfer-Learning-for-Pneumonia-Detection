@@ -3,4 +3,5 @@ Pneumonia is a diseases attack lung. The disease is prevalent in children below 
 ## Table of content
 1. Data Source 
  - chest-xray [chest-xray](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
- 
+### Documents
+[Pneumonia Detection Report](#Pneumonia Detection Report)
