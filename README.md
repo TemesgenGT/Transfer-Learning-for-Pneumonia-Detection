@@ -8,3 +8,4 @@ Pneumonia is a diseases attack lung. The disease is prevalent in children below 
 
 ## Notebook
 - [Pneumonia_detection](https://github.com/TemesgenGT/Pneumonia/commit/4536782829b1205035dad08dd3b7aa24d3066c19)
+- ['Pneumonia Detection](https://github.com/TemesgenGT/Pneumonia/blob/main/Pneumonia_detection.ipynb)
