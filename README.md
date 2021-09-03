@@ -7,5 +7,5 @@ Pneumonia is a diseases attack lung. The disease is prevalent in children below 
 [Pneumonia Detection Report](https://github.com/TemesgenGT/Pneumonia/tree/main/doc)
 
 ## Notebook
-- Pneumonia Detection using deep learning convolutional neural network ['Pneumonia Detection](https://github.com/TemesgenGT/Pneumonia/blob/main/Pneumonia_detection.ipynb)
-- Pneumonia detection using transfer learning ['Transfer - Learning](https://github.com/TemesgenGT/Pneumonia/blob/main/doc/Transfer-Learning-2.ipynb)
+- Pneumonia detection using deep learning convolutional neural network [Pneumonia Detection](https://github.com/TemesgenGT/Pneumonia/blob/main/Pneumonia_detection.ipynb)
+- Pneumonia detection using transfer learning [Transfer-Learning](https://github.com/TemesgenGT/Pneumonia/blob/main/doc/Transfer-Learning-2.ipynb)
