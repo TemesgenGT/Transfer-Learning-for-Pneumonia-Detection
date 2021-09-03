@@ -1,4 +1,2 @@
 # Pneumonia Detection Transfer Learning
-## Pneumonia is a diseses attack's lung. The diseases mainly prevalent in children below the age of five and known as the top few diseases killer for children. Pneumonia is a curable diseases if it is treated at early stage, however, time is curcial for successful recovery, if
-not, the chance to recover is been slim especially, when the victim informed incorrectly.
-The project desigend to improve image identifcation result to minimize the false negative classification.
+Pneumonia is a diseases attack lung. The disease is prevalent in children below the age of five and known as the top few diseases that kill children. Pneumonia is a curable disease if it is treated at an early stage, however, time is crucial for successful recovery otherwise, the chance to recover becomes slim especially, when the victim is informed incorrectly. The project designed to improve image identification result while minimizing the false negative rate.
