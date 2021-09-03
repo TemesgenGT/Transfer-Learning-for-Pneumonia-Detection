@@ -5,3 +5,6 @@ Pneumonia is a diseases attack lung. The disease is prevalent in children below 
  - chest-xray [chest-xray](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 ### Documents
 [Pneumonia Detection Report](https://github.com/TemesgenGT/Pneumonia/tree/main/doc)
+
+## Notebook
+- [Pneumonia_detection](https://github.com/TemesgenGT/Pneumonia/commit/4536782829b1205035dad08dd3b7aa24d3066c19)
