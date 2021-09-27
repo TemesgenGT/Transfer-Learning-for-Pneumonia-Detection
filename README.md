@@ -8,4 +8,4 @@ Pneumonia is lung diseases. The disease is prevalent in children below the age o
 
 ## Notebook
 - Pneumonia detection using deep learning convolutional neural network [Pneumonia Detection](https://github.com/TemesgenGT/Pneumonia/blob/main/Pneumonia_detection.ipynb)
-- Pneumonia detection using transfer learning [Transfer-Learning](https://github.com/TemesgenGT/Pneumonia/blob/main/doc/Transfer-Learning-2.ipynb)
+- Pneumonia detection using transfer learning [Transfer-Learning](https://github.com/TemesgenGT/Pneumonia/blob/main/notebook/Transfer-Learning.ipynb)
