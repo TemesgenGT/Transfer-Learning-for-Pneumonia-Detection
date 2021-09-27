@@ -1,5 +1,5 @@
-# Pneumonia Detection Transfer Learning
-Pneumonia is a diseases attack lung. The disease is prevalent in children below the age of five and is known as the top few diseases that kill children. Pneumonia is a curable disease if it is treated at the early stage otherwise, the chance to recover is slim especially, when the victim is informed incorrectly. This project aimed to improve the image identification score to minimize the false-negative rate.
+# Pneumonia Detection using Transfer Learning 
+Pneumonia is lung diseases. The disease is prevalent in children below the age of five and categorized under the top few diseases that kill children. Pneumonia is a curable disease if it is treated at the early stage otherwise, the chance to recover is slim especially, when the victim is informed incorrectly. This project aimed to improve the image classification to minimize the severity as result of false negative information.
 ## Table of content
 1. Data Source 
  - chest-xray [chest-xray](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
