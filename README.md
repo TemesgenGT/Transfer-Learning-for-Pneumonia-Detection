@@ -1,5 +1,6 @@
 # Pneumonia Detection using Transfer Learning 
-Pneumonia is lung diseases. The disease is prevalent in children below the age of five and categorized under the top few diseases that kill children. Pneumonia is a curable disease if it is treated at the early stage otherwise, chance to recover is slim especially, when the victim is informed incorrectly. This project aimed to improve the image classification for pneumonia postive to minimize the severity as result of false negative information.
+Pneumonia accounts for 15% of all deaths of children under 5 years old, killing 808,694 children in 2017.  Being better able to predict pneumonia quickly and accurately and at a low cost could have a large impact on healthcare related to pneumonia and on patient outcomes. In this project, I seek to use transfer learning to build a model that can accurately diagnose pneumonia based on chest X-rays. 
+
 ## Table of content
 1. Data Source 
  - chest-xray [chest-xray](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
